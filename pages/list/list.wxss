@@ -1,0 +1,21 @@
+.btnbox{
+  width: 80%;
+  height: 100rpx;
+  line-height: 100rpx;
+  font-size: 30rpx;
+  margin: 10px auto;
+  text-align: center;
+  background-color: #eee;
+}
+.listbox view{
+  font-size: 34rpx;
+  margin-top: 40rpx;
+  border-bottom: 1px solid #ccc;
+}
+.listbox view text{
+margin: 20rpx;
+}
+.del text{
+color: #ccc;
+text-decoration: line-through;
+}

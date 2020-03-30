@@ -1,0 +1,5 @@
+<view class="inputbox">
+	<input placeholder="请输入" bindinput="getvalue" value="{{text}}" focus type="text"></input>
+</view>
+<button wx:if="{{flag}}" type="primary" catchtap="submit">提交</button>
+<button wx:else type="default" disabled="false">提交</button>

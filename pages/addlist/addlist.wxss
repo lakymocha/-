@@ -1,0 +1,16 @@
+.inputbox input {
+  margin: 20rpx auto;
+  width: 90%;
+  font-size: 30rpx;
+  height: 80rpx;
+  padding-left:20rpx ;
+  background-color: #eee;
+}
+
+button {
+  margin: 40rpx auto;
+  font-size: 36rpx;
+  width: 40%;
+  height: 80rpx;
+  line-height: 80rpx;
+}
